@@ -1,0 +1,31 @@
+.header{
+    font-size:30px;
+    /* text-align:center; */
+    color:rgb(1, 1, 49);
+    margin-top: 30px;
+  }
+
+.search{
+    text-align: center;
+}
+
+.search input{
+  width:350px;
+  height:20px;
+  margin-top:20px;
+}
+
+.box {
+    height:100px;
+    display: inline-block;
+    margin-left:50px;
+    text-align: center;
+   }
+  img {
+    width: 320px; 
+    height: 180px;
+    object-fit: cover;
+    padding: 1.75rem; 
+    
+    
+   }
